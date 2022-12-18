@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DBInterfaceNew-jvm-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="DBInterfaceNew-jvm-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="DBInterfaceNew.jvmMain" />
+    </root>
+  </artifact>
+</component>
